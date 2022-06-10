@@ -2,8 +2,6 @@
 #### 📃 Project for 실전문제연구단(2021)
 Data Labeling Tool using Python &amp; PyQt
 
-<br>
-
 ### 💡 Installation
 - opencv-python
 - pyqt5  
